@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewLib</string>
+    <string name="webViewTitle">标题</string>
+    <string name="webViewAccessFailed">访问失败!!</string>
+</resources>
